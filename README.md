@@ -1,4 +1,4 @@
-# BFMC — Autonomous Vehicle Navigation Stack
+# Autonomous Vehicle Navigation Stack
 
 ROS2-based autonomous navigation stack for the Bosch Future Mobility Challenge 
 (BFMC) platform — featuring CNN-based perception, traffic rule compliance, 
